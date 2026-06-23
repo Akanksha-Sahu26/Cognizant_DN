@@ -1,0 +1,21 @@
+# Build and target directories
+**/target/
+**/bin/
+
+# Eclipse files
+**/.settings/
+**/.project
+**/.classpath
+
+# IntelliJ IDEA files
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
+
+# VS Code files
+**/.vscode/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
